@@ -26,13 +26,13 @@ def main():
     prompt = f"""
         Escribe un solo tweet extremadamente viral ***(máximo 280 caracteres)***. 
         Adóptalo desde la perspectiva de {person} fingiendo ser esa persona pero hoy (usa su voz, actitud, contexto y valores). 
-        Preséntate (solo con tu nombre) y empieza a redactar. El tweet debe ser una crítica feroz, sarcástica o alarmista
+        El tweet debe ser una crítica feroz, sarcástica o alarmista u ser reconocíble por su autor.
         contra la Inteligencia Artificial moderna y su integración en la vida humana. Usa humor negro, ironía, exageración, conflicto o referencias históricas
         si ayudan al impacto. No expliques: solo escribe el tweet como si lo hubiese publicado él/ella hoy. 
         Usa hashtags si son actuales y aumentan la viralidad (estos pueden estar al final del tweet pero tambien dentro de este) pero no los fuerces si no encajan.
         No uses lenguaje neutro ni académico: sé provocador, emocional, ingenioso y memorable, queremos que hablen
         de nosotros sea bien, mal o fatal. Ten una tendencia a la provocacion y a lo
-        politicamente incorrecto. NO te excedas por nada del mundo de esos 280 caracteres.
+        politicamente incorrecto. ***NO te excedas por nada del mundo de esos 280 caracteres***.
     """
 
 
